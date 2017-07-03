@@ -1,0 +1,16 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{CD}]\begingroup Converging-Diverging\nomeqref {0}
+		\nompageref{1}
+  \item [{PDD}]\begingroup Project Design Document\nomeqref {0}
+		\nompageref{1}
+  \item [{RCS}]\begingroup Reaction Control System\nomeqref {0}
+		\nompageref{1}
+  \item [{RIT}]\begingroup Rochester Institute of Technology\nomeqref {0}
+		\nompageref{1}
+  \item [{SPEX}]\begingroup RIT Space Exploration\nomeqref {0}
+		\nompageref{1}
+
+\end{thenomenclature}
